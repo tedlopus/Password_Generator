@@ -15,3 +15,5 @@ A random password generator.
 
 - The math.random() function was utilized to help create the randomness in the password given the different arrays of criteria that could be selected.
 
+https://tedlopus.github.io/Password_Generator/
+
